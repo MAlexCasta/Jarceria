@@ -1,0 +1,15 @@
+nav .nav-wrapper form, nav .nav-wrapper form .input-field{
+    height: 100%;
+}
+.navbar-brand{
+    padding: 0px;
+}
+.navbar-brand>img {
+    height: 100%;
+    width: auto;
+    padding-left: 10%;
+}
+.carousel-image{
+    max-width: 100%;
+    height: 100%;
+}
